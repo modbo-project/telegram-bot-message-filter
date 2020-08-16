@@ -29,4 +29,4 @@ def load_manager():
     return None
 
 def depends_on():
-    return ["config"]
+    return ["config", "tags"]

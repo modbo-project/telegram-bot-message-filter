@@ -1,1 +1,3 @@
 block_links: true
+
+admins_authorized: true

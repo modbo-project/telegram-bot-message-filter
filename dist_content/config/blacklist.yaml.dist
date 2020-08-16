@@ -1,2 +1,57 @@
-forbidden_words:
-  - "join"
+kickable_words:
+  - unsubscribe
+  - opt out
+  - cancel subscription
+  - spiller
+  - spiller killer 5
+  - sk5
+  - push1000
+  - universal tradehouse
+  - uth
+  - young trilly fam
+  - tradehouse
+  - recruiting
+  - scam
+  - scammer
+  - scamming
+  - fraud
+  - internal revenue service
+  - tax
+  - taxes
+  - i quit my job
+  - blew my account
+  - blew up my account
+  - blown account
+  - lost all my money
+  - lost my whole account
+  - i can’t do this anymore
+  - i have been losing money
+  - im not profitable 
+  - this is not working for me
+  - this is not working out for me
+  - im leaving
+  - im leaving this group
+  - how do i leave this group 
+  - im leaving this chat
+  - how do i leave this chat
+  - who added me here
+  - shit
+  - dick
+  - cock
+  - fuck
+  - bitch
+
+bannable_words: 
+  - forex
+  - trading
+  - team
+  - profit
+  - join
+  - market
+  - \@                                                                                                         
+  - minimum
+  - deposit
+  - ping me
+  - t.me
+  - telegram.me
+  - whatsapp.com
